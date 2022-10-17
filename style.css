@@ -1,0 +1,93 @@
+/* .titulo{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 30px;
+} */
+
+/* 
+EJERCICIO PROGRESO */
+/* .container-barra{
+    background-color: blueviolet;
+    width: 1000px;
+}
+
+
+.progreso{
+    background-color: red;
+    width: 0%;
+    height: 50px;
+} */
+
+
+/* EJERCICIO REACCIONES */
+
+/* .cont-reacciones{
+    width: 700px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.reacciones{
+    margin: 20px;
+    padding: 5px 10px;
+    background-color: rgb(228, 227, 227);
+    border-radius: 10px;
+} */
+
+/* EJERCICIO CARD */
+/* 
+body{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.cont-card{
+    
+    width: 300px;
+    height: 400px;
+    background-color: rgb(147, 220, 251);
+    border: 2px solid rgb(2, 80, 188);
+    box-shadow: 10px 10px 18px -3px rgba(0,0,0,0.57);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+.cont-img{
+    width: 290px;
+    height: 200px;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+}
+
+h1{
+    text-align: center;
+}
+
+a{
+    margin-left: 15px;
+    text-decoration: none;
+}
+
+img{
+    width: 100%;
+} */
+
+/* EJERCICIO PAISES */
+
+li{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
+
+/* 
+EJERCICIO COMIDAS */
+
+/* img{
+    width: 200px;
+    height: 250px;
+    margin: 15px;
+} */
+
+
