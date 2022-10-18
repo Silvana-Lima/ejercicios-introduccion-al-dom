@@ -76,10 +76,15 @@ img{
 
 /* EJERCICIO PAISES */
 
-li{
+/* li{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 30px;
 }
+
+.continente li {
+    color: red;
+    font-weight: bold;
+  } */
 
 /* 
 EJERCICIO COMIDAS */
